@@ -40,6 +40,7 @@ width: 25%;
 padding-right: 25px;
 }
 .banner1{
+    height: 180px;
 display: flex;
 justify-content: center;
 }
