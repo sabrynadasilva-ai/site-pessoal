@@ -74,7 +74,7 @@ header {
 
 }
 
-.estudante_texto{
+.estudante_texto {
     font-size: 18px;
     line-height: 1.5;
     text-align: left;
@@ -104,8 +104,8 @@ header {
 
 .estudante-div {
     background-color: #3a5033;
-    width: 180px;
-    height: 160px;
+    width: 220px;
+    height: 190px;
     border-radius: 15px;
     display: flex;
     justify-content: center;
