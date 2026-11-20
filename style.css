@@ -105,8 +105,8 @@ header {
 .estudante-div {
     background-color: #3a5033;
     width: 220px;
-    height: 190px;
-    border-radius: 15px;
+    height: 130px;
+    border-radius: 12px;
     display: flex;
     justify-content: center;
     align-items: center;
