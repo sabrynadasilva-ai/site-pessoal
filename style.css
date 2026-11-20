@@ -51,6 +51,7 @@ header {
     background-color: #145A32;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .estudante_titulo {
