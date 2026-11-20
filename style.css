@@ -47,11 +47,13 @@ header {
 }
 
 .banner1 {
-    height: 180px;
+     height: 125px;
     background-color: #145A32;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .estudante_titulo {
