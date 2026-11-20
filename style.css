@@ -65,9 +65,12 @@ header {
 }
 
 .estudante_titulo {
-    padding: 50px;
+    padding: 20px;
     text-align: left;
     margin-top: -10px;
+    font-size: 18px;
+    font-family: normal;
+    line-height: 1.5px;
 
 }
 
