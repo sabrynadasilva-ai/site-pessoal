@@ -47,13 +47,19 @@ header {
 }
 
 .banner1 {
-     height: 125px;
+    height: 125px;
     background-color: #145A32;
     display: flex;
     justify-content: center;
     align-content: center;
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+.banner_texto {
+    text-align: center;
+    max-width: 650px;
+    margin: 0 auto 30px;
 }
 
 .estudante_titulo {
