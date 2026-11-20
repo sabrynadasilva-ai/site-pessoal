@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -5,11 +8,11 @@
 }
 
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: "Dancing Script', cursive";
 }
 
 header {
-    background-color: #2E3A2E;
+    background-color: #263D32;
     color: white;
     width: 100%;
     padding: 20px;
@@ -48,7 +51,7 @@ header {
 
 .banner1 {
     height: 125px;
-    background-color: #566B4F;
+    background-color: #3a5033;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -123,7 +126,7 @@ header {
 }
 
 .menu {
-    background-color: #566B4F;
+    background-color: #3a5033;
     display: flex;
     justify-content: center;
     align-items: center;
