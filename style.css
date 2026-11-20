@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #123D2B;
+    background-color: #2E3A2E;
     color: white;
     width: 100%;
     padding: 20px;
@@ -48,7 +48,7 @@ header {
 
 .banner1 {
     height: 125px;
-    background-color: #72BFA0;
+    background-color: #566B4F;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -123,7 +123,7 @@ header {
 }
 
 .menu {
-    background-color: #72BFA0;
+    background-color: #566B4F;
     display: flex;
     justify-content: center;
     align-items: center;
