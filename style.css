@@ -74,6 +74,13 @@ header {
 
 }
 
+.estudante_texto{
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+    max-width: 550px;
+}
+
 .estudante-nome {
     text-align: center;
 }
