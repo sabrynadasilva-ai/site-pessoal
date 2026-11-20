@@ -83,6 +83,8 @@ header {
 
 .estudante-nome {
     text-align: center;
+    color: white;
+    font-size: 18px;
 }
 
 .estudante-imagem {
@@ -100,9 +102,15 @@ header {
     text-align: end;
 }
 
-.estudante.div {
-    text-align: center;
-    padding: 24px 0;
+.estudante-div {
+    background-color: #3a5033;
+    width: 180px;
+    height: 160px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
 }
 
 .estudantes_todos {
