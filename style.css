@@ -177,3 +177,10 @@ header {
     height: 80px;
     object-fit: cover;
 }
+
+.estudante-div {
+    color: white;
+    text-align: center;
+    flex-direction: column;
+    gap: 8px;
+}
